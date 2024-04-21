@@ -12,9 +12,14 @@ The main projects are:
 * [pypesto](https://github.com/ICB-DCM/pyPESTO/) for parameter estimation in Python
 * [parPE](https://github.com/ICB-DCM/parPE) for parameter estimation for ordinary differential equation models on high-performance computing cluster (C++)
 
+## 📫 How to reach me
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielweindl/)
 
 ## Some stats
 
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dweindl&theme=default) -->
+ 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dweindl&count_private=true&show_icons=true" />
 </a>
