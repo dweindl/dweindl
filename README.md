@@ -12,6 +12,11 @@ The main projects are:
 * [pypesto](https://github.com/ICB-DCM/pyPESTO/) for parameter estimation in Python
 * [parPE](https://github.com/ICB-DCM/parPE) for parameter estimation for ordinary differential equation models on high-performance computing cluster (C++)
 
+Other projects in rather early stage:
+* [sbmlmath](https://github.com/dweindl/sbmlmath/) for interconverting SBML math and sympy expressions
+* An IntelliJ [Antimony language support plugin](https://github.com/dweindl/intellij-antimony/) for working with
+  [Antimony](https://academic.oup.com/bioinformatics/article/25/18/2452/196238) models in IntelliJ IDEs such as pycharm
+
 ## 📫 How to reach me
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielweindl/)
