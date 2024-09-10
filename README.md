@@ -1,6 +1,8 @@
 # About me
 
-Hi 👋, I'm Daniel, a Computational Biologist at the [Computational Health Center](https://www.helmholtz-munich.de/en/computational-health-center) at Helmholtz Munich.
+Hi 👋, I'm Daniel, a Computational Biologist at the
+[Interdisciplinary Research Unit Mathematics and Life Sciences](https://www.mathematics-and-life-sciences.uni-bonn.de/en)
+/ Life & Medical Sciences Institute at the University of Bonn.
 I am mostly active in dynamical modeling and parameter estimation.
 My papers are listed on [Google Scholar](https://scholar.google.de/citations?user=c9w50HsAAAAJ&hl=en).
 
@@ -13,7 +15,7 @@ The main projects are:
 * [parPE](https://github.com/ICB-DCM/parPE) for parameter estimation for ordinary differential equation models on high-performance computing cluster (C++)
 
 Other projects in rather early stage:
-* [sbmlmath](https://github.com/dweindl/sbmlmath/) for interconverting SBML math and sympy expressions
+* [sbmlmath](https://github.com/dweindl/sbmlmath/) for interconverting SBML math and SymPy expressions
 * An IntelliJ [Antimony language support plugin](https://github.com/dweindl/intellij-antimony/) for working with
   [Antimony](https://academic.oup.com/bioinformatics/article/25/18/2452/196238) models in IntelliJ IDEs such as pycharm
 
