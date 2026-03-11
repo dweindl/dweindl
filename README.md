@@ -10,14 +10,13 @@ I am developer / regular contributor / maintainer of a number of tools around ef
 The main projects are:
 
 * [PEtab](https://petab.readthedocs.io/) for specifying parameter estimation problems in systems biology in an efficient and interoperable manner
-* [AMICI](https://github.com/AMICI-dev/AMICI/) for scalable simulation and sensitivity analysis (Python / C++ (/ Matlab))
+* [AMICI](https://github.com/AMICI-dev/AMICI/) for scalable simulation and sensitivity analysis (Python / C++)
 * [pypesto](https://github.com/ICB-DCM/pyPESTO/) for parameter estimation in Python
 * [parPE](https://github.com/ICB-DCM/parPE) for parameter estimation for ordinary differential equation models on high-performance computing cluster (C++)
 
 Other projects in rather early stage:
 * [sbmlmath](https://github.com/dweindl/sbmlmath/) for interconverting SBML math and SymPy expressions
-* An IntelliJ [Antimony language support plugin](https://github.com/dweindl/intellij-antimony/) for working with
-  [Antimony](https://academic.oup.com/bioinformatics/article/25/18/2452/196238) models in IntelliJ IDEs such as pycharm
+* [pyscat](https://github.com/ICB-DCM/pyscat/) pypesto-based scatter search metaheuristics for global optimization
 
 ## 📫 How to reach me
 
