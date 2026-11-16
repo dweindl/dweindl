@@ -6,17 +6,21 @@ Hi 👋, I'm Daniel, a Computational Biologist at the
 I am mostly active in dynamical modeling and parameter estimation.
 My papers are listed on [Google Scholar](https://scholar.google.de/citations?user=c9w50HsAAAAJ&hl=en).
 
-I am developer / regular contributor / maintainer of a number of tools around efficient simulation and parameter estimation for dynamic models in systems biology.
-The main projects are:
+I develop and maintain tools  for simulation and parameter estimation of dynamical models in systems biology:
 
-* [PEtab](https://petab.readthedocs.io/) for specifying parameter estimation problems in systems biology in an efficient and interoperable manner
-* [AMICI](https://github.com/AMICI-dev/AMICI/) for scalable simulation and sensitivity analysis (Python / C++)
-* [pypesto](https://github.com/ICB-DCM/pyPESTO/) for parameter estimation in Python
-* [parPE](https://github.com/ICB-DCM/parPE) for parameter estimation for ordinary differential equation models on high-performance computing cluster (C++)
+* [AMICI](https://github.com/AMICI-dev/AMICI/): high-performance simulation and sensitivity analysis
+  for ordinary differential equation (ODE) and differential algebraic equation (DAE) models,
+  with SUNDIALS and JAX backends (Python / C++)
+* [PEtab](https://petab.readthedocs.io/): a standard format for specifying parameter estimation problems
+  in systems biology, and its Python library [libpetab-python](https://github.com/PEtab-dev/libpetab-python)
+* [pypesto](https://github.com/ICB-DCM/pyPESTO/): parameter estimation, uncertainty analysis, ... in Python
 
-Other projects in rather early stage:
-* [sbmlmath](https://github.com/dweindl/sbmlmath/) for interconverting SBML math and SymPy expressions
-* [pyscat](https://github.com/ICB-DCM/pyscat/) pypesto-based scatter search metaheuristics for global optimization
+Smaller tools:
+* [sbmlmath](https://github.com/dweindl/sbmlmath/): conversion between SBML MathML and SymPy expressions
+* [pyscat](https://github.com/ICB-DCM/pyscat/): pypesto-based scatter search metaheuristics for global optimization
+
+Less active:
+* [parPE](https://github.com/ICB-DCM/parPE): parameter estimation for ordinary differential equation models on high-performance computing cluster (C++)
 
 ## 📫 How to reach me
 
